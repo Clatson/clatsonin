@@ -6,7 +6,7 @@ Intern at Tessolve | Pre-final Year Student | Passionate about Embedded Machine 
 - [This is my github page] (https://github.com/clatsonin/clatsonin)
 
 - 🧠 I'm currently learning NLP ✨
-- My favourite project '[Community Chat](https://communitychat.vercel.app/)'
+- My favourite project '[Sonic-Style](https://github.com/clatsonin/sonic-web.git)'
 
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/clatson?theme=dark&font=Noto%20Sans%20Adlam)
